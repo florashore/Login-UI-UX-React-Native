@@ -1,4 +1,5 @@
-<h1 align="center">Projeto Talk-To-Me : Video e Chat em Tempo Real com Websockets ✉️</h1>
+<h1 align="center">Projeto Talk-To-Me |
+  Video e Chat em Tempo Real com Websockets</h1>
 
 <br>
 
