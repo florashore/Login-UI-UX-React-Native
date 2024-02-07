@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mirror-mode {
+  -ms-transform: scale(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+}
