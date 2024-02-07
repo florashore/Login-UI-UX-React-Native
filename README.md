@@ -44,7 +44,7 @@ Esse repositório contém essas tais tecnologias :
   🔗 **Clone o repositório :**
 
   ```bash
-    https://github.com/betafontes/real-time-chat.git
+    https://github.com/betafontes/talk-to-me.git
   ```
 
   🔗 **Entre nos diretórios :**
