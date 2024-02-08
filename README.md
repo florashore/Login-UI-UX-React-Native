@@ -50,7 +50,7 @@ Esse repositório contém essas tais tecnologias :
   🔗 **Entre nos diretórios :**
 
   ```bash
-    cd real-time-chat
+    cd talk-to-me
   ```
 
   ```bash
