@@ -1,12 +1,12 @@
-<h1 align="center">Projeto Talk-To-Me |
-  Video e Chat em Tempo Real com Websockets</h1>
+<h1 align="center">Talk-To-Me Project |
+Real-Time Video and Chat with Websockets</h1>
 
 <br>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalações">Instalações</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technology">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-facilities">Facilities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 🚀 Tecnologias
 
-Esse repositório contém essas tais tecnologias :
+This repository contains such technologies :
 
 - React
 - Tailwind CSS
@@ -29,47 +29,46 @@ Esse repositório contém essas tais tecnologias :
 
 <br>
 
-  ## 💻 Projeto
+## 💻 Project
 
-  Esse projeto foi desenvolvido durante o Bootcamp da Semana do Herói na Hero Code. Durante esse processo foi desenvolvido
-  um sistema de comunicação em tempo real envolvendo chat, audio e meios de compartilhamentos. Eu pude aprender as utilidades de fazer um Chat em tempo Real, utilizando conceitos
-  de Websockets e comunicação bidirecional e também a construção da interface utilizando React na criação de componentes e rotas e a estilização com o Tailwind.
+This project was developed during the Hero Week Bootcamp at Hero Code. During this process,
+a real-time communication system was developed, including chat, audio, and sharing. I was able to learn the benefits of real-time chat, using concepts
+of Websockets and bidirectional communication, as well as building the interface using React to create components and routes, and styling with Tailwind.
 
-  <br>
+<br>
 
+## ⚙️ Installations
+<br>
 
-  ## ⚙️ Instalações
-  <br>
+🔗 **Clone the repository:**
 
-  🔗 **Clone o repositório :**
+```bash
+https://github.com/florashore/talk-to-me.git
+```
 
-  ```bash
-    https://github.com/betafontes/talk-to-me.git
-  ```
+🔗 **Enter the directories:**
 
-  🔗 **Entre nos diretórios :**
+```bash
+cd talk-to-me
+```
 
-  ```bash
-    cd talk-to-me
-  ```
+```bash
+cd frontend
+```
 
-  ```bash
-    cd frontend
-  ```
+```bash
+cd backend
+```
 
-  ```bash
-    cd backend
-  ```
+🔗 **Install the dependencies:**
 
- 🔗 **Instale as dependências :**
+```bash
+npm install
+```
 
- ```bash
-   npm install
- ```
+🔗 **Start the servers in the folders:**
 
-🔗 **Inicie os servidores nas pastas :**
-
- ```bash
-   npm run dev
- ```
+```bash
+npm run dev
+```
 
